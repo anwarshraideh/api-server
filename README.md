@@ -4,9 +4,9 @@
 
 ## links
 
-[heroku]()
+[heroku](https://anwar-api-server.herokuapp.com/)
 
-[PR]()
+[PR](https://github.com/anwarshraideh/api-server/pull/1)
 
 
 ## tests
@@ -24,3 +24,4 @@
 * Add your .env file and add PORT and  MONGODB_URI
 * npm test
 * npm start
+
