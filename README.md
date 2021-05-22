@@ -25,3 +25,11 @@
 * npm test
 * npm start
 
+
+## API Feature
+
+- Add data related to food or clothes in the routes /food , /clothes
+- Get all data realted to food or clothes in the routes /food , /clothe
+- Get a  specific data about food or clothes in the routes /food/:id , /clothes/:id
+- Update existing data related to food or clothes /food/:id , /clothes/:id 
+- Delete existing data realted to food or clothes /food/:id , /clothes/:id.
